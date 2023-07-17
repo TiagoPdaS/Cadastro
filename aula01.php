@@ -21,6 +21,13 @@
         echo '</br>';
         echo 'Meu nome é: ';
         echo $nome;
+
+        <br><br><br>
+
+        /*usando arrays*/
+        $nome = array('jose','joao','samuel');
+        echo $nome[1];
+
         ?>
     </p>
 </body>
